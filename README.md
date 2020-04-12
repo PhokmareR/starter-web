@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 Contribution to the project
+
+## Cpoyright
+@ritesh.phokmare
