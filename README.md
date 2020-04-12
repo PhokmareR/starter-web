@@ -14,7 +14,7 @@ Adding Pusrpose
 Sample website with plenty of files for demos
 
 ## How to contribute
-Contribution to the project
+To Contribution to the project create a branch and merge rhe changes
 
 ## Cpoyright
 @ritesh.phokmare
